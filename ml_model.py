@@ -7,5 +7,6 @@ def model1():
 
 def model2():
     print("code for Model 2")
-        
 
+
+print("model 2 is performing good")
